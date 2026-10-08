@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="415" viewBox="0 0 1100 415" role="img" aria-label="Measured CNN validation accuracy and cross entropy during training">
+<title>Measured CNN validation accuracy and cross entropy during training</title>
+<rect width="1100" height="415" rx="18" fill="#0a101c"/>
+<text x="34" y="41" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#edf2fa" font-weight="700" text-anchor="start" >Pixels become a decision rule</text>
+<text x="34" y="68" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#98aac0" font-weight="400" text-anchor="start" >Generated shapes · fixed validation set · analytical gradients · last-epoch checkpoint</text>
+<text x="66" y="109" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="start" >Validation accuracy</text>
+<line x1="66" y1="337" x2="476" y2="337" stroke="#28394c" stroke-width="1"/>
+<text x="56" y="341" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.00</text>
+<line x1="66" y1="286.0" x2="476" y2="286.0" stroke="#28394c" stroke-width="1"/>
+<text x="56" y="290.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.25</text>
+<line x1="66" y1="235.0" x2="476" y2="235.0" stroke="#28394c" stroke-width="1"/>
+<text x="56" y="239.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.50</text>
+<line x1="66" y1="184.0" x2="476" y2="184.0" stroke="#28394c" stroke-width="1"/>
+<text x="56" y="188.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.75</text>
+<line x1="66" y1="133" x2="476" y2="133" stroke="#28394c" stroke-width="1"/>
+<text x="56" y="137" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >1.00</text>
+<polyline points="66.00,303.57 100.17,211.20 134.33,145.47 168.50,143.20 202.67,136.97 236.83,136.97 271.00,142.07 305.17,135.83 339.33,134.70 373.50,134.70 407.67,136.97 441.83,134.70 476.00,135.83" fill="none" stroke="#69e3bf" stroke-width="3" stroke-linejoin="round"/>
+<text x="66" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >0</text>
+<text x="271.0" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >6</text>
+<text x="476" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >12</text>
+<text x="271.0" y="396" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >epochs</text>
+<text x="620" y="109" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="start" >Validation cross entropy</text>
+<line x1="620" y1="337" x2="1030" y2="337" stroke="#28394c" stroke-width="1"/>
+<text x="610" y="341" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.00</text>
+<line x1="620" y1="286.0" x2="1030" y2="286.0" stroke="#28394c" stroke-width="1"/>
+<text x="610" y="290.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >0.53</text>
+<line x1="620" y1="235.0" x2="1030" y2="235.0" stroke="#28394c" stroke-width="1"/>
+<text x="610" y="239.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >1.06</text>
+<line x1="620" y1="184.0" x2="1030" y2="184.0" stroke="#28394c" stroke-width="1"/>
+<text x="610" y="188.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >1.60</text>
+<line x1="620" y1="133" x2="1030" y2="133" stroke="#28394c" stroke-width="1"/>
+<text x="610" y="137" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="end" >2.13</text>
+<polyline points="620.00,151.55 654.17,234.79 688.33,301.95 722.50,319.10 756.67,326.47 790.83,327.53 825.00,326.17 859.17,331.55 893.33,332.24 927.50,333.42 961.67,332.25 995.83,333.49 1030.00,332.53" fill="none" stroke="#ffb478" stroke-width="3" stroke-linejoin="round"/>
+<text x="620" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >0</text>
+<text x="825.0" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >6</text>
+<text x="1030" y="366" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >12</text>
+<text x="825.0" y="396" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="middle" >epochs</text>
+</svg>

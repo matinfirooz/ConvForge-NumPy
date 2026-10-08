@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="545" viewBox="0 0 850 545" role="img" aria-label="Held-out synthetic test confusion matrix for the trained NumPy CNN">
+<title>Held-out synthetic test confusion matrix for the trained NumPy CNN</title>
+<rect width="850" height="545" rx="18" fill="#0a101c"/>
+<text x="32" y="42" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#edf2fa" font-weight="700" text-anchor="start" >A held-out test, class by class</text>
+<text x="32" y="73" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#98aac0" font-weight="400" text-anchor="start" >Rows = true class · columns = predicted class · independent test seed</text>
+<text x="218" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >circle</text>
+<text x="278" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >square</text>
+<text x="338" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >triangle</text>
+<text x="398" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >plus</text>
+<text x="458" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >cross</text>
+<text x="518" y="110" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#98aac0" font-weight="400" text-anchor="middle" >stripes</text>
+<text x="176" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >circle</text>
+<rect x="190" y="124" width="57" height="57" rx="5" fill="#69e3bf" />
+<text x="218" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >100</text>
+<rect x="250" y="124" width="57" height="57" rx="5" fill="#12212f" />
+<text x="278" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="310" y="124" width="57" height="57" rx="5" fill="#12212f" />
+<text x="338" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="370" y="124" width="57" height="57" rx="5" fill="#12212f" />
+<text x="398" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="430" y="124" width="57" height="57" rx="5" fill="#12212f" />
+<text x="458" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="490" y="124" width="57" height="57" rx="5" fill="#12212f" />
+<text x="518" y="159" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<text x="176" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >square</text>
+<rect x="190" y="184" width="57" height="57" rx="5" fill="#132330" />
+<text x="218" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >1</text>
+<rect x="250" y="184" width="57" height="57" rx="5" fill="#68e1be" />
+<text x="278" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >99</text>
+<rect x="310" y="184" width="57" height="57" rx="5" fill="#12212f" />
+<text x="338" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="370" y="184" width="57" height="57" rx="5" fill="#12212f" />
+<text x="398" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="430" y="184" width="57" height="57" rx="5" fill="#12212f" />
+<text x="458" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="490" y="184" width="57" height="57" rx="5" fill="#12212f" />
+<text x="518" y="219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<text x="176" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >triangle</text>
+<rect x="190" y="244" width="57" height="57" rx="5" fill="#132330" />
+<text x="218" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >1</text>
+<rect x="250" y="244" width="57" height="57" rx="5" fill="#12212f" />
+<text x="278" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="310" y="244" width="57" height="57" rx="5" fill="#68e1be" />
+<text x="338" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >99</text>
+<rect x="370" y="244" width="57" height="57" rx="5" fill="#12212f" />
+<text x="398" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="430" y="244" width="57" height="57" rx="5" fill="#12212f" />
+<text x="458" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="490" y="244" width="57" height="57" rx="5" fill="#12212f" />
+<text x="518" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<text x="176" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >plus</text>
+<rect x="190" y="304" width="57" height="57" rx="5" fill="#12212f" />
+<text x="218" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="250" y="304" width="57" height="57" rx="5" fill="#12212f" />
+<text x="278" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="310" y="304" width="57" height="57" rx="5" fill="#12212f" />
+<text x="338" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="370" y="304" width="57" height="57" rx="5" fill="#69e3bf" />
+<text x="398" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >100</text>
+<rect x="430" y="304" width="57" height="57" rx="5" fill="#12212f" />
+<text x="458" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="490" y="304" width="57" height="57" rx="5" fill="#12212f" />
+<text x="518" y="339" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<text x="176" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >cross</text>
+<rect x="190" y="364" width="57" height="57" rx="5" fill="#12212f" />
+<text x="218" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="250" y="364" width="57" height="57" rx="5" fill="#12212f" />
+<text x="278" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="310" y="364" width="57" height="57" rx="5" fill="#12212f" />
+<text x="338" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="370" y="364" width="57" height="57" rx="5" fill="#12212f" />
+<text x="398" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="430" y="364" width="57" height="57" rx="5" fill="#69e3bf" />
+<text x="458" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >100</text>
+<rect x="490" y="364" width="57" height="57" rx="5" fill="#12212f" />
+<text x="518" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<text x="176" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#98aac0" font-weight="400" text-anchor="end" >stripes</text>
+<rect x="190" y="424" width="57" height="57" rx="5" fill="#12212f" />
+<text x="218" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="250" y="424" width="57" height="57" rx="5" fill="#12212f" />
+<text x="278" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="310" y="424" width="57" height="57" rx="5" fill="#12212f" />
+<text x="338" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="370" y="424" width="57" height="57" rx="5" fill="#12212f" />
+<text x="398" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="430" y="424" width="57" height="57" rx="5" fill="#12212f" />
+<text x="458" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#edf2fa" font-weight="600" text-anchor="middle" >0</text>
+<rect x="490" y="424" width="57" height="57" rx="5" fill="#69e3bf" />
+<text x="518" y="459" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#0a101c" font-weight="600" text-anchor="middle" >100</text>
+<text x="32" y="520" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#69e3bf" font-weight="600" text-anchor="start" >Correct: 598/600 · accuracy: 99.67%</text>
+</svg>
