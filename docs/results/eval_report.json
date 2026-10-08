@@ -1,0 +1,77 @@
+{
+  "task": "synthetic silhouette classification",
+  "test_seed": 2026,
+  "examples": 600,
+  "noise_standard_deviation": 0.065,
+  "checkpoint": "docs/results/shape_cnn.npz",
+  "accuracy": 0.9966666666666667,
+  "correct": 598,
+  "cross_entropy": 0.019742549086610477,
+  "class_names": [
+    "circle",
+    "square",
+    "triangle",
+    "plus",
+    "cross",
+    "stripes"
+  ],
+  "confusion_matrix": [
+    [
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      99,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      99,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      100,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      100,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      100
+    ]
+  ],
+  "per_class_accuracy": [
+    1.0,
+    0.99,
+    0.99,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "note": "Independent random test images. One teaching checkpoint; not an MNIST or real-world accuracy claim."
+}

@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "dtype": "float64",
+  "seed": 7,
+  "epsilon": 1e-06,
+  "input_shape": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "kernel_shape": [
+    3,
+    2,
+    2,
+    3
+  ],
+  "stride": [
+    2,
+    1
+  ],
+  "dilation": [
+    1,
+    2
+  ],
+  "padding": "same",
+  "errors": {
+    "input": {
+      "max_absolute_error": 1.7964261189717945e-09,
+      "relative_l2_error": 3.8773398278603665e-10
+    },
+    "kernel": {
+      "max_absolute_error": 1.1677627753670095e-09,
+      "relative_l2_error": 1.2545581539934827e-10
+    },
+    "bias": {
+      "max_absolute_error": 6.357487869479428e-10,
+      "relative_l2_error": 1.339254943492677e-10
+    }
+  }
+}

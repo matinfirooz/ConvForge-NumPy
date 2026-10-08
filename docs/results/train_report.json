@@ -1,0 +1,153 @@
+{
+  "task": "generated six-class silhouette classification",
+  "seed": 42,
+  "validation_seed": 1337,
+  "epochs": 12,
+  "train_examples": 1800,
+  "validation_examples": 360,
+  "batch_size": 64,
+  "parameters": 19910,
+  "optimizer_steps": 348,
+  "model_config": {
+    "input_size": 24,
+    "num_classes": 6,
+    "channels": [
+      8,
+      16
+    ],
+    "hidden": 32,
+    "dropout": 0.1,
+    "seed": 42,
+    "dtype": "float32",
+    "class_names": [
+      "circle",
+      "square",
+      "triangle",
+      "plus",
+      "cross",
+      "stripes"
+    ]
+  },
+  "history": [
+    {
+      "epoch": 0,
+      "train_loss": null,
+      "train_accuracy": null,
+      "val_loss": 1.935013845231798,
+      "val_accuracy": 0.1638888888888889
+    },
+    {
+      "epoch": 1,
+      "train_loss": 1.5154880714416503,
+      "train_accuracy": 0.36944444444444446,
+      "val_loss": 1.0664539946450127,
+      "val_accuracy": 0.6166666666666667
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6893935214148628,
+      "train_accuracy": 0.7744444444444445,
+      "val_loss": 0.36575838459862603,
+      "val_accuracy": 0.9388888888888889
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.2874229465590583,
+      "train_accuracy": 0.9205555555555556,
+      "val_loss": 0.18675534360938603,
+      "val_accuracy": 0.95
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.16579032560189566,
+      "train_accuracy": 0.9522222222222222,
+      "val_loss": 0.10991052803066041,
+      "val_accuracy": 0.9805555555555555
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.1235872545507219,
+      "train_accuracy": 0.9633333333333334,
+      "val_loss": 0.09884765727652443,
+      "val_accuracy": 0.9805555555555555
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.09335395921849542,
+      "train_accuracy": 0.9766666666666667,
+      "val_loss": 0.11297743684715694,
+      "val_accuracy": 0.9555555555555556
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.10274559375312593,
+      "train_accuracy": 0.965,
+      "val_loss": 0.056835799912611645,
+      "val_accuracy": 0.9861111111111112
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.05927940628594822,
+      "train_accuracy": 0.985,
+      "val_loss": 0.04963210125764211,
+      "val_accuracy": 0.9916666666666667
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.04458375049961938,
+      "train_accuracy": 0.9911111111111112,
+      "val_loss": 0.037399454166491826,
+      "val_accuracy": 0.9916666666666667
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0400953248474333,
+      "train_accuracy": 0.9916666666666667,
+      "val_loss": 0.04956102487113741,
+      "val_accuracy": 0.9805555555555555
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.04024736491445866,
+      "train_accuracy": 0.9872222222222222,
+      "val_loss": 0.03665857315063477,
+      "val_accuracy": 0.9916666666666667
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.030632147184676595,
+      "train_accuracy": 0.9911111111111112,
+      "val_loss": 0.04661548005210029,
+      "val_accuracy": 0.9861111111111112
+    }
+  ],
+  "initial": {
+    "epoch": 0,
+    "train_loss": null,
+    "train_accuracy": null,
+    "val_loss": 1.935013845231798,
+    "val_accuracy": 0.1638888888888889
+  },
+  "final": {
+    "epoch": 12,
+    "train_loss": 0.030632147184676595,
+    "train_accuracy": 0.9911111111111112,
+    "val_loss": 0.04661548005210029,
+    "val_accuracy": 0.9861111111111112
+  },
+  "elapsed_seconds": 5.610493299000154,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "checkpoint_reload_exact": true,
+  "parameter_change_l2": {
+    "conv1.W": 1.0027891397476196,
+    "conv1.b": 0.14317286014556885,
+    "conv2.W": 3.852663278579712,
+    "conv2.b": 0.13496710360050201,
+    "dense1.W": 7.878306865692139,
+    "dense1.b": 0.14599990844726562,
+    "classifier.W": 1.4903180599212646,
+    "classifier.b": 0.17396046221256256
+  },
+  "note": "Balanced synthetic images with random transformations/noise. Fixed validation monitors training only. Last-epoch checkpoint; single-seed teaching experiment."
+}
